@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 07:18:19 On 04.01.2021
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [STM32F7_CoreBoard.PcbDoc]
+   Generated File[Pick Place for STM32F7_CoreBoard.txt]
+   Generated File[Pick Place for STM32F7_CoreBoard.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 07:18:22 On 04.01.2021

@@ -1,0 +1,23 @@
+BGA Escape Route
+Filename     : P:\YILDIZIoT\STM32F7-Base-Board\STM32F7_BaseBoard\STM32F7_CoreBoard - Kopya.PcbDoc
+Date         : 10.05.2020
+Time         : 12:07:26
+Time Elapsed : 00:00:00
+
+IC6
+    Pad IC6-F6(31.67mm,23.553mm) on L1 on Net GND
+    Pad IC6-K6(28.47mm,23.553mm) on L1 on Net GND
+    Pad IC6-F10(31.67mm,20.352mm) on L1 on Net GND
+    Pad IC6-K10(28.47mm,20.352mm) on L1 on Net GND
+    Pad IC6-G6(30.87mm,23.553mm) on L1 on Net GND
+    Pad IC6-J6(29.27mm,23.553mm) on L1 on Net GND
+    Pad IC6-G10(30.87mm,20.352mm) on L1 on Net GND
+    Pad IC6-J10(29.27mm,20.352mm) on L1 on Net GND
+    Pad IC6-F7(31.67mm,22.752mm) on L1 on Net GND
+    Pad IC6-F9(31.67mm,21.152mm) on L1 on Net GND
+    Pad IC6-K7(28.47mm,22.752mm) on L1 on Net GND
+    Pad IC6-H6(30.07mm,23.553mm) on L1 on Net GND
+    Pad IC6-H10(30.07mm,20.352mm) on L1 on Net GND
+    Pad IC6-F8(31.67mm,21.952mm) on L1 on Net GND
+    Pad IC6-K8(28.47mm,21.952mm) on L1 on Net GND
+count : 15
