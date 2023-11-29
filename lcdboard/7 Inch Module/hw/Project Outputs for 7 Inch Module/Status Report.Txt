@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:44:47 On 19.05.2020
+
+Output: 7IncModule BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [7 Inch Module.PrjPcb]
+   Generated File[7IncModule BOM-7 Inch Module.xls]
+   Generated File[7IncModule BOM-7 Inch Module.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 15:45:05 On 19.05.2020
