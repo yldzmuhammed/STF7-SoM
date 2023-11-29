@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [STM32F7_ExpansionBoard.PcbDoc]
+   Generated File[STM32F7_ExpansionBoard.TXT]
+   Generated File[STM32F7_ExpansionBoard.LDP]
+   Generated File[STM32F7_ExpansionBoard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:02:44 On 02.07.2020
